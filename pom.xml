@@ -15,7 +15,7 @@
 
   <properties>
     <packaging>jar</packaging>
-    <jdk.version>11</jdk.version>
+    <jdk.version>8</jdk.version>
     <release.version>11</release.version>
     <micronaut.version>2.3.2</micronaut.version>
     <exec.mainClass>com.giuseppefrattura.Application</exec.mainClass>
